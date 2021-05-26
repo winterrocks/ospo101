@@ -388,7 +388,7 @@ Salesforce stays focused on this concept of cultivating diverse interests to use
 
 ### Open Source Program Goals
 
-Salesforce has many priorities around open source. The company’s open source strategy keeps everyone aligned. The dedicated open source program team circulates internal documents to the company’s engineering team that provide strategic guidance and encourage the creation and use of open source. The documents provide the foundation for an open source culture and let the team know in no uncertain terms that the company’s leaders are fully behind the strategy.
+Salesforce has many priorities around open source. The company’s open source strategy keeps everyone aligned. The dedicated open source program team circulates internal documents to the company’s engineering team that provide strategic guidance and encourage the creation and use of open source. The documents provide the foundation for an open source culture and let the team know in certain terms that the company’s leaders are fully behind the strategy.
 
 Open source is increasingly a part of just about every software project in every company that’s out there. It stands to reason that every possible type of business model you can have with open source is going to come into being and try its hand in the market.
 
