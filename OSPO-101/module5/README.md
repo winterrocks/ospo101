@@ -370,7 +370,7 @@ Relevant terms include:
 - Inserting
 - Embedding
 
-![Incorporation](incorporation.png)
+![Incorporation](incorporation-v2.png)
 
 ### Linking
 
